@@ -7,6 +7,6 @@
 </p>
 <p align="center">
  
-### Foto
- <img src="https://github.com/Aldi098/percobaan/blob/main/contoh.png" width="440" title="Menu" alt="Menu">
+### Menu
+ <img src="https://github.com/Aldi098/Crak/blob/main/hasil%204.png" width="440" title="Menu" alt="Menu">
 </p>

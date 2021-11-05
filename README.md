@@ -22,7 +22,7 @@ $ pip2 install mechanize
 $ pip2 install bs4
 $ git clone https://github.com/Aldi098/Crak
 $ cd Crak
-$ python2 Mulai.py
+$ python2 mulai.py
 
 ```
 
